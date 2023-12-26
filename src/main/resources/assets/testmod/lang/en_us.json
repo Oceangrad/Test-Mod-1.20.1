@@ -1,5 +1,7 @@
 {
   "item.testmod.netherite_shears" : "Netherite Shears",
 
-  "block.testmod.coral_leaves" : "Coral Leaves"
+  "block.testmod.coral_leaves" : "Coral Leaves",
+  "block.testmod.infested_test_block" : "Infested Test Block"
+
 }

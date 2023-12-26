@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "testmod:coral_leaves"
+    "testmod:coral_leaves",
+    "testmod:infested_test_block"
   ]
 }
